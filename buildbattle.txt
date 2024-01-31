@@ -1,0 +1,8 @@
+"buildbattle"
+{
+	"base"		"sandbox"
+	"title"		"Build Battle"
+	"maps"		"^bb_"
+	"category"	"other"
+	"menusystem"	"1"
+}
